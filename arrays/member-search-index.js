@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"arrays","c":"AnanyousArrayTest","l":"AnanyousArrayTest()","u":"%3Cinit%3E()"},{"p":"arrays","c":"AnanyousArrayTest","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"arrays","c":"AnanyousArrayTest","l":"printArray(int[])"}];updateSearchResults();

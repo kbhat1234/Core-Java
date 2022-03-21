@@ -1,0 +1,10 @@
+//this is a comment
+public class SecondProgram {
+
+	public static void main(String[] args) {
+		System.out.println(10+20);
+		System.out.println();
+
+	}
+
+}
